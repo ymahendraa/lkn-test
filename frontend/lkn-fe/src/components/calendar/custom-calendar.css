@@ -1,0 +1,25 @@
+/* custom-calendar.css */
+
+.rbc-calendar {
+  background-color: #ffffff; /* Change the background color of the calendar */
+}
+
+.rbc-header {
+  background-color: oklch(var(--p)); /* Change the header background color */
+  color: white; /* Change the header text color */
+}
+
+.rbc-event {
+  background-color: #28a745; /* Change the event background color */
+  color: white; /* Change the event text color */
+}
+
+.rbc-selected {
+  background-color: #ffc107; /* Change the selected event color */
+}
+
+.rbc-today {
+  background-color: oklch(
+    var(--p)
+  ); /* Change the today's date background color */
+}
