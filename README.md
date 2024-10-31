@@ -44,14 +44,14 @@ This is a simple MERN (MongoDB, Express, React, Node.js) stack application.
 
    ```bash
    cd server
-   npm start
+   npm run dev
    ```
 
 3. Start the frontend server:
 
    ```bash
    cd ../client
-   npm start
+   npm run dev
    ```
 
 4. Open your browser and navigate to `http://localhost:3000`.
