@@ -15,20 +15,20 @@ This is a simple MERN (MongoDB, Express, React, Node.js) stack application.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/mern-app.git
-   cd mern-app
+   git clone [https://github.com/yourusername/mern-app.git](https://github.com/ymahendraa/lkn-test.git
+   cd lkn-test
    ```
 
-2. Install server dependencies:
+2. Install backend dependencies:
 
    ```bash
-   cd server
+   cd backend
    npm install
    ```
 
-3. Install client dependencies:
+3. Install frontend dependencies:
    ```bash
-   cd ../client
+   cd ../frontend/lkn-fe
    npm install
    ```
 
@@ -43,14 +43,14 @@ This is a simple MERN (MongoDB, Express, React, Node.js) stack application.
 2. Start the backend server:
 
    ```bash
-   cd server
+   cd backend
    npm run dev
    ```
 
 3. Start the frontend server:
 
    ```bash
-   cd ../client
+   cd ../frontend/lkn-fe
    npm run dev
    ```
 
